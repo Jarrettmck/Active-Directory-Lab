@@ -19,8 +19,7 @@ This Lab explains how to successfully execute a password reset on Active directo
 
 <p align="center">
 Launch the utility: <br/>
-<img src="![Screenshot 2025-05-18 140256](https://github.com/user-attachments/assets/b1ca979c-f0c7-4ef9-a661-5e00c92b393d)
-" alt="Disk Sanitization Steps"/>
+<img src="Screenshot 2025-05-18 140256.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
