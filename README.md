@@ -18,12 +18,12 @@ This Lab explains how to successfully execute a password reset on Active directo
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Navigate to your Active Directory: <br/>
 <img src="Screenshot 2025-05-18 140256.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Go to your users and Computers section, find the group that the intended user is in, then naviagte to the intended user.  <br/>
+<img src="Screenshot 2025-05-18 143855.png"80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
